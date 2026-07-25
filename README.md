@@ -25,7 +25,6 @@ A personal portfolio website built with **HTML5** and **CSS3** to showcase my fr
 ### Work
 ![Work View](asset/work.png)
 
-> Replace the image names with your own screenshots.
 
 ## 🚀 Live Demo
 
