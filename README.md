@@ -20,10 +20,10 @@ A personal portfolio website built with **HTML5** and **CSS3** to showcase my fr
 ## 📸 Screenshots
 
 ### Home
-![Home View](assets/home.png)
+![Home View](asset/home.png)
 
 ### Work
-![Work View](assets/work.png)
+![Work View](asset/work.png)
 
 > Replace the image names with your own screenshots.
 
